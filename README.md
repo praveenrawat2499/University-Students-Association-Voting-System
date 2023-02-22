@@ -3,6 +3,6 @@
 *Languages using for project*
 1. Python
 2. Django :(Framework language)
-3. HTML5,CSS3,Bootstrap,JavaScript
+3. HTML5,CSS3,Bootstrap
 4. pillow 
 5. Sqlite
